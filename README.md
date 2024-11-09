@@ -1,1 +1,1 @@
-Here is the leaked exit launcher source. you are not allowed to use it you are only allowed to check the source and nothing else.
+Here is the leaked Exit Launcher source code. Please note that you are only permitted to review the source code for informational purposes; usage or distribution outside of this context is strictly prohibited.
